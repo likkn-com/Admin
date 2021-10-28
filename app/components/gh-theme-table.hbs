@@ -14,7 +14,7 @@
                 <div class="apps-configured">
                     {{!--Delete--}}
                     {{#if theme.isDeletable}}
-                        <a href="#" {{action this.deleteTheme theme}} disabled={{theme.active}} class="apps-configured-action darkgrey red-hover red-bg-hover" data-test-theme-delete-button>{{"Manual.Others.Delete"}}</a>
+                        <a href="#" {{action this.deleteTheme theme}} disabled={{theme.active}} class="apps-configured-action darkgrey red-hover red-bg-hover" data-test-theme-delete-button>{{t "Manual.Others.Delete"}}</a>
                     {{/if}}
                     {{!--Download--}}
                     <a href="#" {{action this.downloadTheme theme}} class="apps-configured-action darkgrey darkgrey-hover lightgrey-bg-hover" data-test-theme-download-button>{{t "Manual.Others.Download"}}</a>
