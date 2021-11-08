@@ -2119,6 +2119,7 @@
             "Make_Ghost_work_with_apps_and_tools": "Make Ghost work with apps and tools",
             "Contributor": "Contributor",
             "Owner": "Owner",
+            "Administrator": "Administrator",
             "Email_engagement": "Email engagement",
             "This_member_hasn_t_received_a_newsletter_yet_Once_they_do_we_ll_show_their_engagement_here": "This member hasn't received a newsletter yet. Once they do, we'll show their engagement here.",
             "This_metric_is_calculated_once_a_member_has_received_5_newsletters": "This metric is calculated once a member has received 5 newsletters.",
